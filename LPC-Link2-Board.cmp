@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 2015年07月09日木曜日 07:58:52
+
+BeginCmp
+TimeStamp = /559D148B;
+Reference = J2;
+ValeurCmp = CONN_02X05;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D13F8;
+Reference = J3;
+ValeurCmp = CONN_02X07;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D14C4;
+Reference = J4;
+ValeurCmp = CONN_02X10;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D7D1D;
+Reference = J6;
+ValeurCmp = CONN_01X09;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D1643;
+Reference = J7;
+ValeurCmp = CONN_02X05;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D15B5;
+Reference = J8;
+ValeurCmp = CONN_02X10;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D1557;
+Reference = J9;
+ValeurCmp = CONN_02X12;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x12;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D0C7F;
+Reference = Link2;
+ValeurCmp = LPCLink2;
+IdModule  = MCU:LPCLink2_Base-SMT;
+EndCmp
+
+EndListe
